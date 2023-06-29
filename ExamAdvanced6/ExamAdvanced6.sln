@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.BirthdayCelebration", "T01.BirthdayCelebration\T01.BirthdayCelebration.csproj", "{1AE1A934-2706-4E70-A52E-7CE2A624BC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02.TheBattleofTheFiveArmies", "T02.TheBattleofTheFiveArmies\T02.TheBattleofTheFiveArmies.csproj", "{9E31C6C0-8993-4E08-9D7E-C531381A8AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE1A934-2706-4E70-A52E-7CE2A624BC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE1A934-2706-4E70-A52E-7CE2A624BC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE1A934-2706-4E70-A52E-7CE2A624BC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE1A934-2706-4E70-A52E-7CE2A624BC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E31C6C0-8993-4E08-9D7E-C531381A8AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E31C6C0-8993-4E08-9D7E-C531381A8AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E31C6C0-8993-4E08-9D7E-C531381A8AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E31C6C0-8993-4E08-9D7E-C531381A8AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612F4503-3078-491E-8E76-B71955DF7873}
+	EndGlobalSection
+EndGlobal

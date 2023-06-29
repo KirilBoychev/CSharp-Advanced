@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fccc809f-e8db-41f6-9d78-599f743a540f": {
+      "ProjectGuid": "fccc809f-e8db-41f6-9d78-599f743a540f",
+      "DisplayName": "T01",
+      "ColorIndex": 0
+    },
+    "b528abc5-4ff3-4266-87eb-3861e8afe750": {
+      "ProjectGuid": "b528abc5-4ff3-4266-87eb-3861e8afe750",
+      "DisplayName": "T01.Masterchef",
+      "ColorIndex": 1
+    },
+    "66d9e98e-5708-471e-82d8-303897b7cd50": {
+      "ProjectGuid": "66d9e98e-5708-471e-82d8-303897b7cd50",
+      "DisplayName": "T02.Survivor",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

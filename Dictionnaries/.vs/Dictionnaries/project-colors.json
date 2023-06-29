@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4c1d123-f6ee-4409-8bff-63fe49880c68": {
+      "ProjectGuid": "c4c1d123-f6ee-4409-8bff-63fe49880c68",
+      "DisplayName": "T01.CountSameValuesinArray",
+      "ColorIndex": 0
+    },
+    "21fa4fe5-df19-461a-8e5e-f9caadca7131": {
+      "ProjectGuid": "21fa4fe5-df19-461a-8e5e-f9caadca7131",
+      "DisplayName": "T02.AvarageStudentGrades",
+      "ColorIndex": 1
+    },
+    "5f68eceb-7b80-4d3f-af1b-3242352abb1c": {
+      "ProjectGuid": "5f68eceb-7b80-4d3f-af1b-3242352abb1c",
+      "DisplayName": "T03.Largest3Numbers",
+      "ColorIndex": 2
+    },
+    "35d5cf71-3d4e-48da-bb71-f87b5631e1ac": {
+      "ProjectGuid": "35d5cf71-3d4e-48da-bb71-f87b5631e1ac",
+      "DisplayName": "T08.SoftUniParty",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

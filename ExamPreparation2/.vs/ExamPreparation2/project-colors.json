@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "238fdf73-4f30-47d5-82db-2909174e2914": {
+      "ProjectGuid": "238fdf73-4f30-47d5-82db-2909174e2914",
+      "DisplayName": "T01.Blacksmith",
+      "ColorIndex": 0
+    },
+    "de6377b2-c02f-4fe2-bd9f-e64a4b70cbe5": {
+      "ProjectGuid": "de6377b2-c02f-4fe2-bd9f-e64a4b70cbe5",
+      "DisplayName": "T02.TruffleHunter",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ae1a934-2706-4e70-a52e-7ce2a624bc5f": {
+      "ProjectGuid": "1ae1a934-2706-4e70-a52e-7ce2a624bc5f",
+      "DisplayName": "T01.BirthdayCelebration",
+      "ColorIndex": 0
+    },
+    "9e31c6c0-8993-4e08-9d7e-c531381a8aec": {
+      "ProjectGuid": "9e31c6c0-8993-4e08-9d7e-c531381a8aec",
+      "DisplayName": "T02.TheBattleofTheFiveArmies",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

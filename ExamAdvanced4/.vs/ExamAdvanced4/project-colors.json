@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca57c7be-702c-474d-88eb-ab7241469c48": {
+      "ProjectGuid": "ca57c7be-702c-474d-88eb-ab7241469c48",
+      "DisplayName": "T01.BlackSmith",
+      "ColorIndex": 0
+    },
+    "5421945f-e41c-484d-88cf-37b5db5c2639": {
+      "ProjectGuid": "5421945f-e41c-484d-88cf-37b5db5c2639",
+      "DisplayName": "T02,Armory",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5daa816-fbd0-49fe-aa80-910a5fd4f0f2": {
+      "ProjectGuid": "e5daa816-fbd0-49fe-aa80-910a5fd4f0f2",
+      "DisplayName": "T01.WarmingWinter",
+      "ColorIndex": 0
+    },
+    "b0533136-772b-4d81-ab00-9c0edd805ecf": {
+      "ProjectGuid": "b0533136-772b-4d81-ab00-9c0edd805ecf",
+      "DisplayName": "T02.SuperMario",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

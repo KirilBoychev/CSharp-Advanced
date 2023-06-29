@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "864e7b06-5055-4075-af53-f0ee9cf7b8a0": {
+      "ProjectGuid": "864e7b06-5055-4075-af53-f0ee9cf7b8a0",
+      "DisplayName": "T01.FoodFinder",
+      "ColorIndex": 0
+    },
+    "a058fa32-cb6a-4b7e-b128-ad0b225cdc95": {
+      "ProjectGuid": "a058fa32-cb6a-4b7e-b128-ad0b225cdc95",
+      "DisplayName": "T01.FoodFinder",
+      "ColorIndex": 1
+    },
+    "97e31e0b-3a90-46f6-9e8c-1b393376290b": {
+      "ProjectGuid": "97e31e0b-3a90-46f6-9e8c-1b393376290b",
+      "DisplayName": "T02.PawnWars",
+      "ColorIndex": 2
+    },
+    "3100b341-4706-4a0a-8314-8c05e82de833": {
+      "ProjectGuid": "3100b341-4706-4a0a-8314-8c05e82de833",
+      "DisplayName": "T03.StockMarket",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87453b04-6f7d-4ef7-ada1-fe93e82028ff": {
+      "ProjectGuid": "87453b04-6f7d-4ef7-ada1-fe93e82028ff",
+      "DisplayName": "T01.UnigueUsername",
+      "ColorIndex": 0
+    },
+    "3d1c1781-2692-4d75-8d2c-01643e8d29b4": {
+      "ProjectGuid": "3d1c1781-2692-4d75-8d2c-01643e8d29b4",
+      "DisplayName": "T02.SetOfElements",
+      "ColorIndex": 1
+    },
+    "74dca9c3-1bbf-48a4-8995-94e7e1ed507d": {
+      "ProjectGuid": "74dca9c3-1bbf-48a4-8995-94e7e1ed507d",
+      "DisplayName": "T03.PeriodicTable",
+      "ColorIndex": 2
+    },
+    "33a67702-38f6-4bcd-8c17-55203d4ba024": {
+      "ProjectGuid": "33a67702-38f6-4bcd-8c17-55203d4ba024",
+      "DisplayName": "T04.EvenTimes",
+      "ColorIndex": 3
+    },
+    "f4f6496c-d6c6-46dd-b398-72e31e51e3aa": {
+      "ProjectGuid": "f4f6496c-d6c6-46dd-b398-72e31e51e3aa",
+      "DisplayName": "T05.CountSymbols",
+      "ColorIndex": 4
+    },
+    "ac6469a6-55f0-44b7-aefc-0ab19a3d04c3": {
+      "ProjectGuid": "ac6469a6-55f0-44b7-aefc-0ab19a3d04c3",
+      "DisplayName": "T06.Wardrobe",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce0e6abf-21d8-4550-959c-3293c377738f": {
+      "ProjectGuid": "ce0e6abf-21d8-4550-959c-3293c377738f",
+      "DisplayName": "T01.BakeryShop",
+      "ColorIndex": 0
+    },
+    "fde4b261-3f82-45a4-a47c-b896a98296da": {
+      "ProjectGuid": "fde4b261-3f82-45a4-a47c-b896a98296da",
+      "DisplayName": "T02.BeaverAtWork",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
